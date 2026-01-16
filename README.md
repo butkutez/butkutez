@@ -4,9 +4,24 @@
 
 🌱 I’m currently enrolled in Data Analyst course by Syntra AB
 
-🌱 I’m currently following the Data Science & AI bootcamp at BeCode, a 7-month intensive training program.
+🌱 I’m currently following the Data Science & AI bootcamp at BeCode
 
 💞️ I’m looking to collaborate on Big Data related projects
 
 📫 How to reach me: butkutez@yahoo.com  
+
+# Technical Skills
+**Languages & Databases**:   
+![Python](https://img.shields.io/badge/Python%20%20%20%20%20%20%20-1f425f?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL%20%20%20%20%20%20%20%20%20%20-1f425f?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL%20%20%20%20%20-1f425f?style=flat-square&logo=mysql&logoColor=white) ![SQLite3](https://img.shields.io/badge/SQLite3%20%20-1f425f?style=flat-square&logo=sqlite&logoColor=white)
+
+**Data Science & Machine Learning**:  
+![Pandas](https://img.shields.io/badge/Pandas%20%20%20%20%20%20%20-1f425f?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy%20%20%20%20%20%20%20%20-1f425f?style=flat-square&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1f425f?style=flat-square&logo=scikit-learn&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter%20%20%20%20%20%20%20-1f425f?style=flat-square&logo=jupyter&logoColor=white)
+
+**Web Frameworks & DevOps**:  
+![FastAPI](https://img.shields.io/badge/FastAPI%20%20%20%20%20%20%20-1f425f?style=flat-square&logo=fastapi&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit%20%20%20%20%20-1f425f?style=flat-square&logo=streamlit&logoColor=white) ![Docker](https://img.shields.io/badge/Docker%20%20%20%20%20%20%20%20-1f425f?style=flat-square&logo=docker&logoColor=white) ![Azure](https://img.shields.io/badge/Azure%20%20%20%20%20%20%20%20%20-1f425f?style=flat-square&logo=microsoftazure&logoColor=white)
+
+
+
+
+
 
