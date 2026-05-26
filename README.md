@@ -8,7 +8,8 @@
 
 💞️ I’m looking to collaborate on Big Data related projects
 
-📫 How to reach me: butkutez@yahoo.com  
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/zivile-butkute)
+
 
 # Technical Skills
 **Languages & Databases**:   
