@@ -17,6 +17,7 @@
 
 **Data Engineering & BI**:  
 ![dbt](https://img.shields.io/badge/dbt%20%20%20%20%20%20%20%20%20%20-1f425f?style=flat-square&logo=dbt&logoColor=white) ![Metabase](https://img.shields.io/badge/Metabase%20%20%20%20-1f425f?style=flat-square&logo=metabase&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI%20%20%20%20-1f425f?style=flat-square&logo=powerbi&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL%20%20%20%20%20%20%20%20%20%20-1f425f?style=flat-square)
 
 **Data Science & Machine Learning**:  
 ![Pandas](https://img.shields.io/badge/Pandas%20%20%20%20%20%20%20-1f425f?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy%20%20%20%20%20%20%20%20-1f425f?style=flat-square&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1f425f?style=flat-square&logo=scikit-learn&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter%20%20%20%20%20%20%20-1f425f?style=flat-square&logo=jupyter&logoColor=white) ![GenAI](https://img.shields.io/badge/GenAI%20%20%20%20%20%20%20%20-1f425f?style=flat-square&logo=googlegemini&logoColor=white)
