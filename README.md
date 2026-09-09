@@ -1,4 +1,4 @@
-# Hi, I'm @butkutez 
+# Hi, I'm Zivile
 
 👀 I’m interested in Data Science, SQL and Python
 
