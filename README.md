@@ -1,10 +1,10 @@
 # Hi, I'm Zivile
 
-👀 I’m interested in Data Science, SQL and Python
+💻 I’m interested in Data Science, SQL and Python
 
-💞️ I’m looking to collaborate on Big Data related projects
+🤝🏻 I’m looking to collaborate on Big Data related projects
 
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/zivile-butkute)
+💬 How to reach me: [LinkedIn](https://www.linkedin.com/in/zivile-butkute)
 
 
 # Technical Skills
