@@ -2,10 +2,6 @@
 
 👀 I’m interested in Data Science, SQL and Python
 
-🌱 I’m currently enrolled in Data Analyst course by Syntra AB
-
-🌱 I’m currently following the Data Science & AI bootcamp at BeCode
-
 💞️ I’m looking to collaborate on Big Data related projects
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/zivile-butkute)
